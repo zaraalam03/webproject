@@ -1,0 +1,18 @@
+p, li, table {
+	font-size: 1.2em;
+}
+
+th, td {
+	/*border-color: #448AA6;
+	border-style: solid;
+	border-width: 3px;*/
+	border: #000000 solid 3px;
+	padding: 10px;
+}
+
+table{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
